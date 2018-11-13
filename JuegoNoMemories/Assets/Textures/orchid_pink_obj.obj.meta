@@ -1,0 +1,130 @@
+fileFormatVersion: 2
+guid: c3fbe82c7aef6ca48ac98d2b8b113859
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: orchid_pink
+    100002: //RootNode
+    400000: orchid_pink
+    400002: //RootNode
+    2100000: orchid_pink_mtl_2
+    2100002: orchid_pink_mtl_14
+    2100004: orchid_pink_mtl_3
+    2100006: orchid_pink_mtl_4
+    2100008: orchid_pink_mtl_5
+    2100010: orchid_pink_mtl_6
+    2100012: orchid_pink_mtl_7
+    2100014: orchid_pink_mtl_9
+    2100016: orchid_pink_mtl_10
+    2100018: orchid_pink_mtl_11
+    2100020: orchid_pink_mtl_12
+    2100022: orchid_pink_mtl_13
+    2100024: orchid_pink_mtl_16
+    2100026: orchid_pink_mtl_15
+    2100028: orchid_pink_mtl_17
+    2100030: orchid_pink_mtl_18
+    2100032: orchid_pink_mtl_19
+    2100034: orchid_pink_mtl_20
+    2100036: orchid_pink_mtl_21
+    2100038: orchid_pink_mtl_22
+    2100040: orchid_pink_mtl_23
+    2100042: orchid_pink_mtl_24
+    2100044: orchid_pink_mtl_25
+    2100046: orchid_pink_mtl_26
+    2100048: orchid_pink_mtl_27
+    2100050: orchid_pink_mtl_28
+    2100052: orchid_pink_mtl_29
+    2100054: orchid_pink_mtl_30
+    2100056: orchid_pink_mtl_31
+    2100058: orchid_pink_mtl_32
+    2100060: orchid_pink_mtl_33
+    2100062: orchid_pink_mtl_34
+    2100064: orchid_pink_mtl_35
+    2100066: orchid_pink_mtl_36
+    2100068: orchid_pink_mtl_8
+    2300000: orchid_pink
+    3300000: orchid_pink
+    4300000: orchid_pink
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
